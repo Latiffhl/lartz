@@ -11,5 +11,5 @@ I am a software engineering student and also a graphic designer I have an intere
 
 Check out some of the things I'm building!
 
-- [Wilayah Nusantara](https://suvarna-mu.vercel.app/)
+- [Suvarna](https://suvarna-mu.vercel.app/)
 
